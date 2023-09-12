@@ -1,0 +1,33 @@
+Logistic Regression 
+train Accuracy: 77.63%
+validation Accuracy: 76.77%
+
+Random Forest
+Training Accuracy: 0.9630350194552529
+Validation Accuracy: 0.7716535433070866
+
+Decision Tree
+Training Accuracy: 0.8696498054474708
+Validation Accuracy: 0.6811023622047244
+
+KNeighborsClassifier Model
+Training Accuracy with Best Hyperparameters: 0.7947882736156352
+Validation Accuracy with Best Hyperparameters: 0.7272727272727273
+
+
+Support Vector Classifier
+Training Accuracy: 0.7785016286644951
+Validation Accuracy: 0.7727272727272727
+
+
+AdaBoost Classifier
+AdaBoost Training Accuracy: 0.8224755700325733
+AdaBoost Validation Accuracy: 0.7402597402597403
+
+Gradient Boosting Classifier
+GBM Training Accuracy: 0.9429967426710097
+GBM Validation Accuracy: 0.7532467532467533
+
+xgboost Classifier
+XGBoost Training Accuracy: 0.988599348534202
+XGBoost Validation Accuracy: 0.7272727272727273
