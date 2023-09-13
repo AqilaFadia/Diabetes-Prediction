@@ -6,7 +6,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the trained model
-model = joblib.load('./diabetes_model.pkl')
+model = joblib.load('./model/diabetes_model.pkl')
 
 # Streamlit app title
 st.title('Diabetes Prediction App')
