@@ -1,0 +1,11 @@
+
+email = "aqilafadiamariana" # Ganti dengan alamat email Anda
+showWarningOnDirectExecution = false
+
+
+headless = true
+port = 8501
+
+
+base = "light" # Anda dapat mengganti dengan "dark" jika ingin tema gelap
+primaryColor = "#ff5722" # Warna utama tema Anda
