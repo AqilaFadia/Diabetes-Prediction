@@ -4,7 +4,7 @@
 Develop a machine learning model that aims to classify patients as to whether they are diabetic or not. The model will use a patient's medical data and various health features to provide an accurate prediction of their diabetes status, thereby aiding in early diagnosis and appropriate treatment.
 
 # Deployment
-
+Link Deploy: [here](https://diabetes-prediction-jcpwl3vwphcity7b4dmsyk.streamlit.app/)
 # Slide and Presentation
  * Link Presentation: here
  * Link Video Presentation: here
