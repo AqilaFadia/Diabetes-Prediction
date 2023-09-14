@@ -17,5 +17,6 @@ The dataset contains 8 attribute columns and 1 label column that contains 2 clas
 * https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 * https://www.kaggle.com/code/zabihullah18/diabetes-prediction
 * https://www.halodoc.com/artikel/12-faktor-ini-tingkatkan-risiko-diabetes-melitus
+* https://www.dicoding.com/academies/184/tutorials/8452
 
 
