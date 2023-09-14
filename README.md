@@ -8,7 +8,7 @@ Link Deploy: [here](https://diabetes-prediction-jcpwl3vwphcity7b4dmsyk.streamlit
 # Slide and Presentation
  * Link Presentation: [here](https://docs.google.com/presentation/d/1fIdv7IYAOEKKw-og2t8AOFU4wFs9-jjFlrZDeTiAMO8/edit?usp=sharing)
  * Link Video Presentation: here
- * Link Article: here
+ * Link Article: [here](https://medium.com/@aqilafadiamariana/diabetes-prediction-app-with-random-forest-ea19b1412aa3)
  
 # Data Understanding
 The dataset contains 8 attribute columns and 1 label column that contains 2 classes, namely 1 and 0. The number 1 indicates that the person is positive for diabetes and 0 indicates otherwise. There are 768 samples which are 768 female patients of Pima Indian descent.
