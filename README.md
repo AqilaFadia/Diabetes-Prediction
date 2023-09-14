@@ -6,7 +6,7 @@ Develop a machine learning model that aims to classify patients as to whether th
 # Deployment
 Link Deploy: [here](https://diabetes-prediction-jcpwl3vwphcity7b4dmsyk.streamlit.app/)
 # Slide and Presentation
- * Link Presentation: here
+ * Link Presentation: [here](https://docs.google.com/presentation/d/1fIdv7IYAOEKKw-og2t8AOFU4wFs9-jjFlrZDeTiAMO8/edit?usp=sharing)
  * Link Video Presentation: here
  * Link Article: here
  
